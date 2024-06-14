@@ -8,5 +8,6 @@ jketterl/openwebrx
 registry.rocket.chat/rocketchat/rocket.chat
 lscr.io/linuxserver/homeassistant
 lscr.io/linuxserver/nextcloud
+onething1/wxedge
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
