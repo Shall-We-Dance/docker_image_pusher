@@ -10,5 +10,6 @@ lscr.io/linuxserver/homeassistant
 lscr.io/linuxserver/nextcloud
 onething1/wxedge
 ghcr.io/kastldratza/zoomrec:master
+kastldratza/zoomrec:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
