@@ -1,4 +1,5 @@
 nginx
+docker.io/library/registry:latest
 zerotier/zerotier
 jellyfin/jellyfin
 netdata/netdata
