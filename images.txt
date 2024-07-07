@@ -14,5 +14,6 @@ kastldratza/zoomrec:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:ollama
+registry.cn-shenzhen.aliyuncs.com/handsfree/certd:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
