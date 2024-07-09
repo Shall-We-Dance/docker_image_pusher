@@ -1,5 +1,8 @@
 nginx
-docker.io/library/registry:latest
+--platform=linux/arm64 docker.io/library/registry:latest
+--platform=linux/amd64 docker.io/library/registry:latest
+--platform=linux/arm/v7 docker.io/library/registry:latest
+--platform=linux/arm/v6 docker.io/library/registry:latest
 zerotier/zerotier
 jellyfin/jellyfin
 netdata/netdata
